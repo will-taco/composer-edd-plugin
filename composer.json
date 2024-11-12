@@ -18,11 +18,11 @@
     ],
     "autoload": {
         "psr-4": {
-            "LubusIN\\ComposerEddPlugin\\": "src"
+            "will-taco\\ComposerEddPlugin\\": "src"
         }
     },
     "extra": {
-        "class": "LubusIN\\ComposerEddPlugin\\Plugin",
+        "class": "will-taco\\ComposerEddPlugin\\Plugin",
         "plugin-modifies-downloads": true
     }
 }
